@@ -2,6 +2,11 @@
 
 A sleek and functional **Password Generator** web application that allows users to create strong, customizable passwords. Built with **HTML**, **CSS**, and **JavaScript**, this tool ensures password security and user convenience.
 
+## Live Demo
+
+Check out the live demo of the Password Generator here: [Password Generator Live Demo](https://password-generator-vineet.netlify.app/)
+
+
 ## Features ✨
 
 - **Dynamic Password Length**: Adjust the length of the password using a slider.
